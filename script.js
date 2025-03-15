@@ -7,4 +7,4 @@ main.addEventListener("mousemove",function(dets){
 
 })
 
-// finnaly
+// finnaly done
