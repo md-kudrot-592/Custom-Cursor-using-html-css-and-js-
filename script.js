@@ -6,3 +6,5 @@ main.addEventListener("mousemove",function(dets){
     crsr.style.top = dets.y+"px";
 
 })
+
+// finnaly
